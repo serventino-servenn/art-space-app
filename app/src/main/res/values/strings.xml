@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="african_renaissance">African Renaissance Monument</string>
+    <string name="eiffel_tower">Eiffel Tower</string>
+    <string name="space_needle">Space Needle</string>
+    <string name="dree_y_2023">Dree Y(Dakar, Senegal, 2023)</string>
+    <string name="cyril_mzn_2019">Cyril Mzn(Paris,France, 2019)</string>
+    <string name="kedar_gadge_2022">Kedar Gadge(Seattle, WA,2022)</string>
+</resources>
