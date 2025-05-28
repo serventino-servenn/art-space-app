@@ -1,7 +1,13 @@
 ## Art Space App 
-A simple Android app built using [Jetpack Compose](https://developer.android.com/jetpack/compose), and it is part of the [Android Basics with Kotlin](https://developer.android.com/courses/android-basics-compose/course) learning pathway.
-Art Space App  displays a collection of artwork with their respective titles and artists. Users can navigate through different artworks using Next and Previous buttons. The app demonstrates  state management and Compose UI components.
+A simple Android app built using [Jetpack Compose](https://developer.android.com/jetpack/compose), and it is part of the [Android Basics with Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-art-space#0) learning pathway.
 
+Art Space App  displays a collection of artwork with their respective titles and artists. Users can navigate through different artworks using Next and Previous buttons.The app demonstrates key Jetpack Compose concepts like state management, composables, and layout structuring.
+
+### Learning Goals
+- Practice state hoisting in Compose
+- Understand column,Row,Box layout composables
+- Manage UI updates using remember and mutableStateOf
+- Handle basic user interaction
 
 ## Screenshots
 <p aling ="center">
@@ -16,6 +22,9 @@ Art Space App  displays a collection of artwork with their respective titles and
 - [Kotlin](https://kotlinlang.org/)
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Android Studio](https://developer.android.com/studio)
+
+## Testing
+Includes instrumented tests for verifying the presence and functionality of navigation buttons.
 
 ##  Getting Started
 
