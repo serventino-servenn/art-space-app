@@ -21,7 +21,7 @@ Art Space App  displays a collection of artwork with their respective titles and
 
 1. Clone the repo:
    ```bash
-   https://github.com/serventino-servenn/art-space-app.git
+   git clone https://github.com/serventino-servenn/art-space-app.git
 
 2. Open the project in Android Studio
 
