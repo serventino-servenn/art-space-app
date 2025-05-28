@@ -5,9 +5,9 @@ Art Space App  displays a collection of artwork with their respective titles and
 
 ## Screenshots
 <p aling ="center">
-  <img src="https://github.com/user-attachments/assets/e1688990-c62a-4d97-8d29-9829ad7baf8a"  width="300"/>
-  <img src="https://github.com/user-attachments/assets/528151c5-7068-44bd-b3a4-4d773942ed59"  width="300"/>
-  <img src="https://github.com/user-attachments/assets/0734ca4f-58c2-444e-a1bd-91d7138349e8"  width="300"/>
+  <img src="https://github.com/user-attachments/assets/e1688990-c62a-4d97-8d29-9829ad7baf8a"  width="150"/>
+  <img src="https://github.com/user-attachments/assets/528151c5-7068-44bd-b3a4-4d773942ed59"  width="150"/>
+  <img src="https://github.com/user-attachments/assets/0734ca4f-58c2-444e-a1bd-91d7138349e8"  width="150"/>
 </p>
 
 
@@ -21,7 +21,7 @@ Art Space App  displays a collection of artwork with their respective titles and
 
 1. Clone the repo:
    ```bash
-   https://github.com/serventino-servenn/business-card-compose.git
+   https://github.com/serventino-servenn/art-space-app.git
 
 2. Open the project in Android Studio
 
